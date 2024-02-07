@@ -79,7 +79,3 @@ R\left(\boldsymbol{x},\boldsymbol{x}'\right) = \prod\limits_{i=1}^d\dfrac{1}{\Ga
 where $\theta_i$ is the correlation length parameter along the $i$th direction, $\nu$ is the smoothness parameter and $\mathcal{K}_{\nu}\left(\cdot\right)$ is the modified
 Bessel function of order $\nu$.
 
-
-<script type="text/x-mathjax-config">
-   MathJax.Hub.Config({  "HTML-CSS": { minScaleAdjust: 125, availableFonts: [] }  });
-</script>
