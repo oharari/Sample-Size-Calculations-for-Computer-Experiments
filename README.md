@@ -40,7 +40,7 @@ This repository contains the following:
 
 # About this application
 
-The aim of this application is to provide sample size calculations for the Gaussian process model. For more information read [the manuscript](https://b38efb82-a-62cb3a1a-s-sites.googlegroups.com/site/ofirhararishomepage/Sample_Size_Revisited.pdf?attachauth=ANoY7cocRxLf7yLkbT3uauaHg-e7eHSgED_RRyIGZ74c9y9ub5xYK7_jckKQXYft63DWVOiPcSCDLEIA0RPVUx6ItLhSV9Zo3hio_4EiFy6ayOVN9WfnHU8QeCuEjg814Hz3BI0YW8jnuhZFRLqKpIElpREIIXktVtqqG0ECflxi2VYWMV5SkBI83fInw0lMhs-Op-X7gsuOZccTd8eQD0sR-dOKVGvOrani8ZI04LVnsuDKIW5bxMI%3D&attredirects=0). 
+The aim of this application is to provide sample size calculations for the Gaussian process model. For more information read [the manuscript]([https://b38efb82-a-62cb3a1a-s-sites.googlegroups.com/site/ofirhararishomepage/Sample_Size_Revisited.pdf?attachauth=ANoY7cocRxLf7yLkbT3uauaHg-e7eHSgED_RRyIGZ74c9y9ub5xYK7_jckKQXYft63DWVOiPcSCDLEIA0RPVUx6ItLhSV9Zo3hio_4EiFy6ayOVN9WfnHU8QeCuEjg814Hz3BI0YW8jnuhZFRLqKpIElpREIIXktVtqqG0ECflxi2VYWMV5SkBI83fInw0lMhs-Op-X7gsuOZccTd8eQD0sR-dOKVGvOrani8ZI04LVnsuDKIW5bxMI%3D&attredirects=0](https://drive.google.com/file/d/1XF1v2Xk8dG43qT8n0zwEUeTyf8yh2WSJ/view?usp=drive_link)). 
 
 The focus of these calculations is the **_Average Unexplained Variation_** of a predictor $\widehat{y}\left(\boldsymbol{x}\right)$ given a sample $\mathcal{D}=\left\lbrace\boldsymbol{x}_1\ldots,\boldsymbol{x}_n\right\rbrace\subset [0,1]^d$, defined by 
 
