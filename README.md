@@ -40,7 +40,7 @@ This repository contains the following:
 
 # About this application
 
-The aim of this application is to provide sample size calculations for the Gaussian process model. For more information read [the manuscript](https://drive.google.com/file/d/1XF1v2Xk8dG43qT8n0zwEUeTyf8yh2WSJ/view). 
+The aim of [this application](https://harario.shinyapps.io/Sample_Size_Shiny/) is to provide sample size calculations for the Gaussian process model. For more information read [the manuscript](https://drive.google.com/file/d/1XF1v2Xk8dG43qT8n0zwEUeTyf8yh2WSJ/view). 
 
 The focus of these calculations is the **_Average Unexplained Variation_** of a predictor $\widehat{y}\left(\boldsymbol{x}\right)$ given a sample $\mathcal{D}=\left\lbrace\boldsymbol{x}_1\ldots,\boldsymbol{x}_n\right\rbrace\subset [0,1]^d$, defined by 
 
