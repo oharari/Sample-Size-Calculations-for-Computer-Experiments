@@ -1,5 +1,5 @@
 # Sample Size Calculations for Computer Experiments
-Code for our 2018 Statistica Sinica paper "Computer Experiments: Prediction Accuracy, Sample Size and Model Complexity Revisited".
+Code for our 2018 Statistica Sinica [paper](https://drive.google.com/file/d/1XF1v2Xk8dG43qT8n0zwEUeTyf8yh2WSJ/view?usp=drive_link) "Computer Experiments: Prediction Accuracy, Sample Size and Model Complexity Revisited".
 
 
 This repository contains the following:
