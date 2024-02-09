@@ -4,9 +4,8 @@ Code for our 2018 Statistica Sinica paper "Computer Experiments: Prediction Accu
 
 This repository contains the following:
 
-**********************************************************************************************
-** File Piston_RAUV_Simulation.R
-**********************************************************************************************
+
+## File Piston_RAUV_Simulation.R
 
 	- R code to reproduce the results of section 6 in our paper ("An Illustration").
 
@@ -17,9 +16,7 @@ This repository contains the following:
 	- Reproduces Figure 6 and Figure 7.
 
 
-**********************************************************************************************
-** Sub-directory Sample_Size_Shiny
-**********************************************************************************************
+## Sub-directory Sample_Size_Shiny
 
 	- An R-Shiny application for sample size calculations
 
@@ -35,8 +32,6 @@ This repository contains the following:
 	- Make sure to save the directory locally as is, including the .rmd and the .html 
           files.
 
-**********************************************************************************************
-**********************************************************************************************
 
 # About this application
 
