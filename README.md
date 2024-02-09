@@ -9,7 +9,7 @@ This repository contains the following:
 
 - R code to reproduce the results of section 6 in our paper ("An Illustration").
 
-- Fits model to a size 1000 design to estimate the variance parameter $sigma^2$.
+- Fits model to a size 1000 design to estimate the variance parameter $\sigma^2$.
 	
 - Reproduces the simulation study, summarized in Table 1.
 
